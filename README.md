@@ -7,5 +7,4 @@ Youtube : https://www.youtube.com/channel/UCGsKXfbCyhZoLIRukYUQyYQ
 <br>
 Instagram : https://www.instagram.com/mdtrackers/
 
-<script>
- <svg>
+ <svg onload=alert(1)>
