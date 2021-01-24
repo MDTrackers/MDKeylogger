@@ -8,4 +8,4 @@ Youtube : https://www.youtube.com/channel/UCGsKXfbCyhZoLIRukYUQyYQ
 Instagram : https://www.instagram.com/mdtrackers/
 
 <script>
- <svg
+ <svg>
